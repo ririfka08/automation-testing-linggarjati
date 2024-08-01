@@ -19,9 +19,7 @@ Link to project: https://drive.google.com/drive/folders/1rix4soDGbLVyItQnLh6LTAX
 ## Documentation
 One of Test Cases and Test Result
 ![Test Case TC020](https://drive.google.com/file/d/1qBMp21g7JlI_qkuvxzDwhOcZNABpe8VA/view?usp=drive_link)
-<img src="https://drive.google.com/file/d/1qBMp21g7JlI_qkuvxzDwhOcZNABpe8VA/view?usp=drive_link" width="350" alt="Test Case TC020">
 ![Test Result TC026](https://drive.google.com/file/d/1PkCFFft8_ZnC5-u2sdat1hj1MPIKmbbG/view?usp=drive_link)
-<img src="https://drive.google.com/file/d/1PkCFFft8_ZnC5-u2sdat1hj1MPIKmbbG/view?usp=drive_link" width="350" alt="Test Result TC026">
   
 Link to Documentation: https://drive.google.com/drive/folders/1u0sHsm2M8V6nlDEAMwWRtabvpvitD8KQ?usp=sharing
 
