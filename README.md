@@ -14,4 +14,7 @@ This project centered on automating functional tests for the Linggarjati web-bas
 11. User Management functionality testing
 12. Module Download functionality testing
 
+![One of Test Case](Test Case TC020.png)
+![One of Test Case](Test result of Test Case TC026.png)
+
 Link project: https://drive.google.com/drive/folders/1rix4soDGbLVyItQnLh6LTAXqthnJ7WH9
