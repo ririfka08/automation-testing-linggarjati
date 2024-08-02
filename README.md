@@ -18,8 +18,8 @@ Link to project: https://drive.google.com/drive/folders/1rix4soDGbLVyItQnLh6LTAX
 
 ## Documentation
 One of Test Cases and Test Result
-![Test Case TC020](https://drive.google.com/file/d/1qBMp21g7JlI_qkuvxzDwhOcZNABpe8VA/view?usp=drive_link)
-![Test Result TC026](https://drive.google.com/file/d/1PkCFFft8_ZnC5-u2sdat1hj1MPIKmbbG/view?usp=drive_link)
+![alt Test Case TC020](https://github.com/ririfka08/automation-testing-linggarjati/blob/main/Test%20Case%20TC020.png?raw=true)
+![alt Test Result TC026](https://github.com/ririfka08/automation-testing-linggarjati/blob/main/Test%20result%20of%20Test%20Case%20TC026.png?raw=true)
   
 Link to Documentation: https://drive.google.com/drive/folders/1u0sHsm2M8V6nlDEAMwWRtabvpvitD8KQ?usp=sharing
 
