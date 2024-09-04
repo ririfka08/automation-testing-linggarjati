@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Permohonan Layanan Hosting</name>
+   <tag></tag>
+   <elementGuidId>5ae73462-ee1b-42ae-8dcd-e69feaaee4a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='side-menu']/li[3]/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>76abf444-7be2-4241-bea2-5aacb8416635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://linggarjati.kuningankab.go.id/Home/daftar_rek_hosting</value>
+      <webElementGuid>b7fc7216-131f-423d-806d-ff11a3418d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Permohonan Layanan Hosting</value>
+      <webElementGuid>a705a825-106b-4843-846f-e533e0d1ed3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[@class=&quot;active&quot;]/ul[@class=&quot;nav nav-second-level collapse in&quot;]/li[4]/a[1]</value>
+      <webElementGuid>175255cd-2a32-42f4-bfae-02012055a465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='side-menu']/li[3]/ul/li[4]/a</value>
+      <webElementGuid>86c515bf-1f53-4767-9017-24c5dbb1370a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Permohonan Layanan Hosting')]</value>
+      <webElementGuid>f13b6060-5e0f-4a08-ac57-586707aa98fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://linggarjati.kuningankab.go.id/Home/daftar_rek_hosting')]</value>
+      <webElementGuid>85fbfa8f-b6c8-474e-a982-1bc6ac9d58ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[4]/a</value>
+      <webElementGuid>ae232c3c-fef8-4d97-8706-e1c422f279e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://linggarjati.kuningankab.go.id/Home/daftar_rek_hosting' and (text() = ' Permohonan Layanan Hosting' or . = ' Permohonan Layanan Hosting')]</value>
+      <webElementGuid>c20aa64e-f8e9-47c1-9ae6-ad154523abd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

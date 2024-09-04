@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Permohonan Baru</name>
+   <tag></tag>
+   <elementGuidId>6b38898d-9362-4906-b30e-c1949feb1453</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#semua_permohonan > div > a.btn.btn-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='semua_permohonan']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f3ac3e3-5e86-4063-9353-646d0eee4796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-white</value>
+      <webElementGuid>bdb27658-43cd-4d77-9b59-fb550f7a477d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://linggarjati.kuningankab.go.id/Home/add_rek_pentest/</value>
+      <webElementGuid>fadfac6b-5ef2-4a51-b18d-4d40dc6c5a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Permohonan Baru</value>
+      <webElementGuid>f929a9f4-2010-4b31-8c24-a7e33eca75e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;semua_permohonan&quot;)/div[1]/a[@class=&quot;btn btn-white&quot;]</value>
+      <webElementGuid>d6d58076-8bc2-4eb2-97af-8ef89d71e143</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='semua_permohonan']/div/a</value>
+      <webElementGuid>af422f7f-32cf-4837-8fa4-5b2eecadcb44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Permohonan Baru')]</value>
+      <webElementGuid>13f1e51a-a159-4c01-b246-fe24a8ae87df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://linggarjati.kuningankab.go.id/Home/add_rek_pentest/')]</value>
+      <webElementGuid>20d13db8-847d-4d75-b082-e165e4e4f771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>3cb40e3e-3222-4cda-9471-5b3c389809f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://linggarjati.kuningankab.go.id/Home/add_rek_pentest/' and (text() = ' Permohonan Baru' or . = ' Permohonan Baru')]</value>
+      <webElementGuid>0ab3ad49-9498-4eed-b338-2db60d6bd06a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

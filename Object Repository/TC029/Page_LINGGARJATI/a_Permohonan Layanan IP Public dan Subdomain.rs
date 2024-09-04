@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Permohonan Layanan IP Public dan Subdomain</name>
+   <tag></tag>
+   <elementGuidId>c3feaf82-47a0-4b3d-a1e4-7c4e9010db3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='side-menu']/li[3]/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>36504c37-c5a6-4583-8027-73a19556415c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://linggarjati.kuningankab.go.id/Home/daftar_rek_ipsubdomain</value>
+      <webElementGuid>dca4fa85-8e9b-4ea8-9998-53c5c36ace5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Permohonan Layanan IP Public dan Subdomain</value>
+      <webElementGuid>b80fd50b-050f-4f0b-bf39-706c20c0c004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[@class=&quot;active&quot;]/ul[@class=&quot;nav nav-second-level collapse in&quot;]/li[5]/a[1]</value>
+      <webElementGuid>9df917ea-2ed7-4159-8524-2d3579196d93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='side-menu']/li[3]/ul/li[5]/a</value>
+      <webElementGuid>d164270a-6112-4ec2-98e3-5dcb251bcd00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Permohonan Layanan IP Public dan Subdomain')]</value>
+      <webElementGuid>38ff3781-b92b-48af-80e5-990dd2962ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://linggarjati.kuningankab.go.id/Home/daftar_rek_ipsubdomain')]</value>
+      <webElementGuid>09376a27-dc64-473f-93d8-08a2d0a4a761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[5]/a</value>
+      <webElementGuid>8dbb0345-25b0-43a9-8010-f0765eb4ad93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://linggarjati.kuningankab.go.id/Home/daftar_rek_ipsubdomain' and (text() = ' Permohonan Layanan IP Public dan Subdomain' or . = ' Permohonan Layanan IP Public dan Subdomain')]</value>
+      <webElementGuid>f4ee9d08-1eb5-42ec-b6e9-df7626ff7efd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

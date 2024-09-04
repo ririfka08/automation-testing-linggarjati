@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Silahkan Pilih PlatformOS yang dig_ff2048</name>
+   <tag></tag>
+   <elementGuidId>f07969a8-5449-468b-b1af-8e5eea6eddae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#os</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='os']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7b8d421a-e6c6-4aae-9065-d49d8cd0b75b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>os</value>
+      <webElementGuid>0c352558-f2ae-4626-a6b9-ada66d67df25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control </value>
+      <webElementGuid>97e5b848-834b-4b59-9d4d-707404fc01d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>os</value>
+      <webElementGuid>9caf9cc5-100f-423a-81b1-ef840c3c4890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            --Silahkan Pilih Platform/OS yang diganakan--
+                            Linux
+                            Windows
+                        </value>
+      <webElementGuid>08289b7f-b3de-4dd7-9039-014a870e6582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;os&quot;)</value>
+      <webElementGuid>ecc15a65-569a-45a2-b02a-00beeeb7b783</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='os']</value>
+      <webElementGuid>7af9b875-438b-472e-9728-93f9de472280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='form1']/div/div/div[8]/select</value>
+      <webElementGuid>52346165-57da-4fcd-9e7a-fbbdb3bc9d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/select</value>
+      <webElementGuid>e8fa8e70-d879-49af-b708-33731d97cce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'os' and @id = 'os' and (text() = '
+                            --Silahkan Pilih Platform/OS yang diganakan--
+                            Linux
+                            Windows
+                        ' or . = '
+                            --Silahkan Pilih Platform/OS yang diganakan--
+                            Linux
+                            Windows
+                        ')]</value>
+      <webElementGuid>c8b89e70-66d0-42c1-a315-33dc6eb47559</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

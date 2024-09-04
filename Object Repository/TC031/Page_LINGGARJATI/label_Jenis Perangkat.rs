@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Jenis Perangkat</name>
+   <tag></tag>
+   <elementGuidId>06343aca-db42-431a-bb73-cf1241046961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='permohonan_infra']/div[3]/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7f4ab899-e0cb-4847-ae92-2f744ff889d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jenis Perangkat</value>
+      <webElementGuid>f7bc27ad-1a24-4287-965f-e1acb7c2a086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;permohonan_infra&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group&quot;]/label[1]</value>
+      <webElementGuid>2af72032-a508-4588-a4ab-7ee18f5c84ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='permohonan_infra']/div[3]/div[3]/label</value>
+      <webElementGuid>302fc8e2-e4c8-44e3-a9d9-6c313f816adc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[3]/label</value>
+      <webElementGuid>dbf887c2-99f5-40b4-a02d-752c414bd30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Jenis Perangkat' or . = 'Jenis Perangkat')]</value>
+      <webElementGuid>8cc756c2-2619-4047-9120-3d22c82ee5f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

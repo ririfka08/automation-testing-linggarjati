@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Silahkan Pilih--                Pu_aab13d</name>
+   <tag></tag>
+   <elementGuidId>d63b9578-161a-4d11-ac1f-4045ac5f9cad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#akses</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='akses']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bbfa5851-ed98-48d0-a126-05dcb5a5a48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>akses</value>
+      <webElementGuid>f82621cb-9cb1-4ada-a056-f496a01e24f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control </value>
+      <webElementGuid>368a7bfa-03e0-43fb-a963-507290fe8676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>akses</value>
+      <webElementGuid>bafc6440-b7d0-4361-abc1-ef4a2fc55eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                --Silahkan Pilih--
+                Publik
+                Lokal
+            </value>
+      <webElementGuid>0685e8cb-d676-4c45-8fcc-a1cc2a854ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;akses&quot;)</value>
+      <webElementGuid>d394793b-8427-4593-8db8-b484ceafc02a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='akses']</value>
+      <webElementGuid>8232dd20-6b32-4548-a249-7224148fb45d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='form1']/div/div[2]/div[4]/select</value>
+      <webElementGuid>56ac8fe8-3724-41ad-b8ff-f92e0c0e6816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>60c04083-f798-478b-b101-aa8ae0f96c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'akses' and @id = 'akses' and (text() = '
+                --Silahkan Pilih--
+                Publik
+                Lokal
+            ' or . = '
+                --Silahkan Pilih--
+                Publik
+                Lokal
+            ')]</value>
+      <webElementGuid>48dd473a-640e-41f2-9098-d3d7008f7521</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

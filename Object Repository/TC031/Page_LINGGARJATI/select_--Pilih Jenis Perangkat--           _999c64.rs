@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Pilih Jenis Perangkat--           _999c64</name>
+   <tag></tag>
+   <elementGuidId>93b288f4-ed0b-486e-b7e2-9cfd76e81c81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id=''])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;jenis_perangkat_infra&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f1d722e9-d45d-49d5-8549-55d858258ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis_perangkat_infra</value>
+      <webElementGuid>e90f6b45-96fa-47a1-a9ac-96f0c4d8d8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>77a800be-aabf-421c-b69b-331a03dfbf73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5cda1263-5ba0-4ac3-8cd0-eb5c8982ceec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                --Pilih Jenis Perangkat--
+                Server
+                Firewall
+                Perangkat Jaringan
+              </value>
+      <webElementGuid>e2546eb2-3872-448c-9daa-943b58143918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;permohonan_infra&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>c173a087-8a93-461d-953e-35f537ec2b5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id=''])[2]</value>
+      <webElementGuid>88eac94e-6aa3-43da-bf23-cb22ab07b2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='permohonan_infra']/div[3]/div[3]/select</value>
+      <webElementGuid>7672e356-4e9f-428f-aaca-3385df2165a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>236b3329-60b2-4029-9b12-3d68590b3322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenis_perangkat_infra' and (text() = '
+                --Pilih Jenis Perangkat--
+                Server
+                Firewall
+                Perangkat Jaringan
+              ' or . = '
+                --Pilih Jenis Perangkat--
+                Server
+                Firewall
+                Perangkat Jaringan
+              ')]</value>
+      <webElementGuid>ed32f861-fe3f-4cad-b49d-e0aa157edfbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
